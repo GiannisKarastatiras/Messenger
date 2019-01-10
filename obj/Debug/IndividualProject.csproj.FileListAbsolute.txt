@@ -1,0 +1,14 @@
+C:\Users\Craven\Documents\Bootcamp5\Projects\IndividualProject\IndividualProject\obj\Debug\IndividualProject.csprojAssemblyReference.cache
+C:\Users\Craven\Documents\Bootcamp5\Projects\IndividualProject\IndividualProject\obj\Debug\IndividualProject.csproj.CoreCompileInputs.cache
+C:\Users\Craven\Documents\Bootcamp5\Projects\IndividualProject\IndividualProject\bin\Debug\IndividualProject.exe.config
+C:\Users\Craven\Documents\Bootcamp5\Projects\IndividualProject\IndividualProject\bin\Debug\IndividualProject.exe
+C:\Users\Craven\Documents\Bootcamp5\Projects\IndividualProject\IndividualProject\bin\Debug\IndividualProject.pdb
+C:\Users\Craven\Documents\Bootcamp5\Projects\IndividualProject\IndividualProject\obj\Debug\IndividualProject.exe
+C:\Users\Craven\Documents\Bootcamp5\Projects\IndividualProject\IndividualProject\obj\Debug\IndividualProject.pdb
+C:\Users\zoika\Desktop\IndividualProject\IndividualProject\bin\Debug\IndividualProject.exe.config
+C:\Users\zoika\Desktop\IndividualProject\IndividualProject\bin\Debug\IndividualProject.exe
+C:\Users\zoika\Desktop\IndividualProject\IndividualProject\bin\Debug\IndividualProject.pdb
+C:\Users\zoika\Desktop\IndividualProject\IndividualProject\obj\Debug\IndividualProject.csprojAssemblyReference.cache
+C:\Users\zoika\Desktop\IndividualProject\IndividualProject\obj\Debug\IndividualProject.csproj.CoreCompileInputs.cache
+C:\Users\zoika\Desktop\IndividualProject\IndividualProject\obj\Debug\IndividualProject.exe
+C:\Users\zoika\Desktop\IndividualProject\IndividualProject\obj\Debug\IndividualProject.pdb
